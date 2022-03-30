@@ -1,0 +1,16 @@
+{
+  "name": "platzipics",
+  "version": "1.0.0",
+  "description": "Electron application for image viewing",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "electron src/index.js",
+    "doc" : "electron",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Bedoya <dbedoya0408@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.0.0"
+  }
+}
